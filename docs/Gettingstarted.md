@@ -3,7 +3,7 @@ Welcome to the Dragon Ball z
 - [Power](Power.md)
 - [Power](Power.md)
 
-
+I had updated description for this article
 # Universes
 - [Universe - 1](Universes/Universe-1.md)
 ____________________________________________________________
