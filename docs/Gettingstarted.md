@@ -4,6 +4,7 @@ Welcome to the Dragon Ball z
 - [Power](Power.md)
 
 I had updated description for this article
+Updated article now as well
 # Universes
 - [Universe - 1](Universes/Universe-1.md)
 ____________________________________________________________
