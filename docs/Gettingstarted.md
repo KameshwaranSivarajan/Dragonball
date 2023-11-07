@@ -1,1 +1,1 @@
-Article settings are updated
+Resync article file
