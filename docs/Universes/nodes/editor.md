@@ -1,1 +1,1 @@
-This is multiple commit file
+Updated and working as expected
