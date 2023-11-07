@@ -1,1 +1,1 @@
-This is new article after resync
+This is new article after resync-Multiple commit
